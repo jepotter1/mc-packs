@@ -1,0 +1,4 @@
+= Minecraft Modpacks
+:experimental:
+
+A repository for my Minecraft modpacks. Check btn:[Releases] for downloads.
